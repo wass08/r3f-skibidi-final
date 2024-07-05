@@ -1,10 +1,9 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+# r3f-skibidi-final
 
-```
-yarn
-yarn dev
-```
+![YouTube Thumbnail](https://github.com/wass08/r3f-skibidi-starter/assets/6551176/d5501917-6d32-46c6-b41b-2ae7da0a47b0)
 
+[Video tutorial](https://youtu.be/ljL7NKCi-kg)
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+[Live demo](https://r3f-skibidi-final.vercel.app/)
+
+[Starter code](https://github.com/wass08/r3f-skibidi-starter)
